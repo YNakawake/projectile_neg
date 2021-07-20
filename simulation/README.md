@@ -1,4 +1,4 @@
-# The computer simulation code
+# The computer simulation code of ‘Negative observational learning might play a limited role in the cultural evolution of technology’
 
 ## Version
 + C++(12.0.0): Mac OS version(10.15.7)
