@@ -10,4 +10,4 @@
 + L159: Set social learning condition if you chose social learning in L157: either positive or negative
 + L161: Set Season either 1, 2, or 3
 + Any changes other than those parts may lead to failure of replication or even running.
-+ Both means and standard error for each trial comes out as an output (1st line: mean, 2nd Line: standard error)
++ Both mean and standard error for each trial comes out as an output (1st line: mean, 2nd Line: standard error)
