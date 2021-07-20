@@ -9,5 +9,5 @@
 + L158: Set social learning algorithm
 + L159: Set social learning condition if you chose social learning in L157: either positive or negative
 + L161: Set Season either 1, 2, or 3
-+ You could change other parts but it does not gurantee the replication of the result reported in the paper.
++ Any changes other than those parts may lead to failure of replication or even running.
 + Both means and standard error for each trial comes out as an output (1st line: mean, 2nd Line: standard error)
