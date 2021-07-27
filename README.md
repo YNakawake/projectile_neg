@@ -3,6 +3,8 @@
 
 ## The contents of this repository are as follows
 
+all r files are in ipynb format (jupyter notebook)
+
 + `./`
     + `analysis/` :statistical analyis and data visualization codes, datasets are also included
         + `maindata_aggregation/` <font color="Coral">: inidvidual data aggregaton code and data (R)</font>
