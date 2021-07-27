@@ -3,7 +3,7 @@
 
 ## The contents of this repository are as follows
 
-all r files are in ipynb format (jupyter notebook)
+all R files are in ipynb format (jupyter notebook)
 
 + `./`
     + `analysis/` :statistical analyis and data visualization codes, datasets are also included
