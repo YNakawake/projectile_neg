@@ -7,12 +7,12 @@ all R files are in ipynb format (jupyter notebook)
 
 + `./`
     + `analysis/` <font color="Coral">:statistical analyis and data visualization codes, datasets are also included</font>
-        + `maindata_aggregation/` <font color="Coral">: inidvidual data aggregaton code and data (R)</font>
+        + `maindata_aggregation/` <font color="Coral">: individual data aggregation code and data (R)</font>
         + `maindata_analysis/`    <font color="Coral"> : statistical analysis code for the main analysis  (R) </font>
         + `postquestionnaire_analysis/`  <font color="Coral"> : analysis code for the postquestionnaire (R) </font>
         + `simulation_visulization/`  <font color="Coral"> : visualization code for the simulation (R) </font>
-    + `experiment_program/` <font color="Coral">: experiment programe (Visual Basic), see README inside</font>
-    + `materials/` <font color="Coral">: matrials used in the exepriment</font>
+    + `experiment_program/` <font color="Coral">: experiment program (Visual Basic), see README inside</font>
+    + `materials/` <font color="Coral">: materials used in the experiment </font>
         + `instructions/` <font color="Coral">: instruction in Japanese</font>
             + `instruction_asocial.pptx` <font color="Coral">: instruction for the asocial condition</font>
             + `instruction_negative.pptx` <font color="Coral">: instruction for the negative condition</font>
