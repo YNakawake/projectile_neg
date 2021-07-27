@@ -13,7 +13,7 @@ all R files are in ipynb format (jupyter notebook)
         + `simulation_visulization/`  <font color="Coral"> : visualization code for the simulation (R) </font>
     + `experiment_program/` <font color="Coral">: experiment programe (Visual Basic), see README inside</font>
     + `materials/` <font color="Coral">: matrials used in the exepriment</font>
-        + `instructions/` <font color="Coral">: instruction (in Japanese)</font>
+        + `instructions/` <font color="Coral">: instruction in Japanese</font>
             + `instruction_asocial.pptx` <font color="Coral">: instruction for the asocial condition</font>
             + `instruction_negative.pptx` <font color="Coral">: instruction for the negative condition</font>
             + `instruction_positive.pptx` <font color="Coral">: instruction for the positive condition</font>
