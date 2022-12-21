@@ -1,6 +1,7 @@
 
 # Supplementary Material for ‘Negative observational learning might play a limited role in the cultural evolution of technology’
 
+## link to the paper: https://doi.org/10.1038/s41598-022-05031-2
 ## The contents of this repository are as follows
 
 all R files are in ipynb format (jupyter notebook)
